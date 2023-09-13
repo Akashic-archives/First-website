@@ -1,0 +1,39 @@
+1694567250.420886 client started (1232): version 3.1c, socket /tmp/tmux-0/default, protocol 8
+1694567250.420917 on Linux 5.10.0-25-amd64 #1 SMP Debian 5.10.191-1 (2023-08-16); libevent 2.1.12-stable (poll)
+1694567250.420930 socket is /tmp/tmux-0/default
+1694567250.420946 trying connect
+1694567250.421095 add peer 0x55aff3889ac0: 6 ((nil))
+1694567250.421170 sending message 100 to peer 0x55aff3889ac0 (4 bytes)
+1694567250.421179 sending message 101 to peer 0x55aff3889ac0 (15 bytes)
+1694567250.421185 sending message 102 to peer 0x55aff3889ac0 (11 bytes)
+1694567250.421190 sending message 108 to peer 0x55aff3889ac0 (30 bytes)
+1694567250.421197 sending message 104 to peer 0x55aff3889ac0 (0 bytes)
+1694567250.421202 sending message 107 to peer 0x55aff3889ac0 (4 bytes)
+1694567250.421207 sending message 105 to peer 0x55aff3889ac0 (16 bytes)
+1694567250.421212 sending message 105 to peer 0x55aff3889ac0 (34 bytes)
+1694567250.421220 sending message 105 to peer 0x55aff3889ac0 (13 bytes)
+1694567250.421226 sending message 105 to peer 0x55aff3889ac0 (21 bytes)
+1694567250.421231 sending message 105 to peer 0x55aff3889ac0 (15 bytes)
+1694567250.421236 sending message 105 to peer 0x55aff3889ac0 (11 bytes)
+1694567250.421241 sending message 105 to peer 0x55aff3889ac0 (17 bytes)
+1694567250.421246 sending message 105 to peer 0x55aff3889ac0 (54 bytes)
+1694567250.421251 sending message 105 to peer 0x55aff3889ac0 (23 bytes)
+1694567250.421256 sending message 105 to peer 0x55aff3889ac0 (20 bytes)
+1694567250.421260 sending message 105 to peer 0x55aff3889ac0 (10 bytes)
+1694567250.421265 sending message 105 to peer 0x55aff3889ac0 (8 bytes)
+1694567250.421270 sending message 105 to peer 0x55aff3889ac0 (18 bytes)
+1694567250.421275 sending message 105 to peer 0x55aff3889ac0 (28 bytes)
+1694567250.421280 sending message 105 to peer 0x55aff3889ac0 (34 bytes)
+1694567250.421286 sending message 105 to peer 0x55aff3889ac0 (66 bytes)
+1694567250.421291 sending message 105 to peer 0x55aff3889ac0 (19 bytes)
+1694567250.421297 sending message 105 to peer 0x55aff3889ac0 (16 bytes)
+1694567250.421303 sending message 105 to peer 0x55aff3889ac0 (27 bytes)
+1694567250.421309 sending message 106 to peer 0x55aff3889ac0 (0 bytes)
+1694567250.421314 sending message 200 to peer 0x55aff3889ac0 (4 bytes)
+1694567250.421320 client loop enter
+1694567250.425951 peer 0x55aff3889ac0 message 207
+1694567250.425960 sending message 208 to peer 0x55aff3889ac0 (0 bytes)
+1694567251.608116 peer 0x55aff3889ac0 message 203
+1694567251.608128 sending message 205 to peer 0x55aff3889ac0 (0 bytes)
+1694567251.608431 peer 0x55aff3889ac0 message 204
+1694567251.608438 client loop exit

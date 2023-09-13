@@ -1,3 +1,10 @@
+progres:
+tech with tim flask 2
+
+references:
+https://daisyui.com/
+
+
 collapse thing
 
 <div class="collapse bg-base-200">
