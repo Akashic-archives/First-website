@@ -18,6 +18,10 @@ def tos():
 def forensics():
     return render_template("forensics.html")
 
+@app.route("/messages")
+def messages():
+    return render_template("messages.html")
+
 #@app.route("/cv")
 #def home():
 #    return render_template("cv.html")
