@@ -14,9 +14,9 @@ def horaire():
 def tos():
     return render_template("tos.html")
 
-#@app.route("/forensics")
-#def home():
-#    return render_template("horaire.html")
+@app.route("/forensics")
+def forensics():
+    return render_template("forensics.html")
 
 #@app.route("/cv")
 #def home():
