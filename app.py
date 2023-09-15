@@ -22,9 +22,13 @@ def forensics():
 def messages():
     return render_template("messages.html")
 
-#@app.route("/cv")
-#def home():
-#    return render_template("cv.html")
+@app.route("/cv")
+def cv():
+    return render_template("cv.html")
+
+@app.route("/moi")
+def moi():
+    return render_template("moi.html")
 
 #@app.route("/index")
 #def home():
