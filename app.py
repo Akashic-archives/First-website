@@ -30,6 +30,10 @@ def cv():
 def moi():
     return render_template("moi.html")
 
+@app.route("/sql")
+def sql():
+    return render_template("sql.html")
+
 #@app.route("/index")
 #def home():
 #    return render_template("index.html")
