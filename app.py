@@ -51,5 +51,5 @@ def sql():
 #    return redirect(url_for("user", name="Admin"))
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", debug=True, port=80) #port=xxxx
+    app.run(host="0.0.0.0", debug=True, port=80) #port=xxxx ssl sertificate here
 
